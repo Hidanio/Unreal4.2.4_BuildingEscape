@@ -30,7 +30,7 @@ public:
 	void FindAudioComponent();
 	void FindPressurePlate();
 
-	bool OpenDorSound = false;
+	bool OpenDoorSound = false;
 	bool CloseDoorSound = true;
 
 private:
